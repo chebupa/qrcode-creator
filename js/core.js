@@ -4,7 +4,7 @@ console.log('JS connected succesfuly')
 // main code
 let qrcode = new QRCode("qrcode");
 
-function makeCode () {		
+function makeCode () {
 	let elText = document.getElementById("text");
 	
 	if (!elText.value) {
@@ -14,9 +14,7 @@ function makeCode () {
 	
 	qrcode.makeCode(elText.value);
 }
-
 makeCode();
-
 
 const qrLinkText = document.getElementById('text')
 
