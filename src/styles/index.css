@@ -1,0 +1,86 @@
+/* FONTS */
+/* montseratt */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	box-sizing: border-box;
+	border-radius: 0px;
+	text-decoration: none !important;
+}
+
+button {
+	border: none !important;
+	background-color: transparent;
+}
+
+body {
+	-ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+
+	background-color: deepskyblue;
+	font-family: 'Montserrat', sans-serif;
+}
+body::-webkit-scrollbar {
+	display: none; /* Safari */
+}
+
+/* main code */
+
+/* nav bar */
+nav {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+
+	display: flex;
+	justify-content: space-between;
+	z-index: 99;
+
+	padding: 10px;
+	background-color: white;
+}
+nav p {
+	font-weight: 600;
+	font-size: 1.25rem;
+	margin: auto 0px auto 5px;
+
+	color: black;
+}
+.github-profile-link { display: flex; }
+.github-profile-link:hover { cursor: pointer; }
+.github-profile-link img {
+	border-radius: 100%;
+	width: 50px;
+}
+
+#qrcode {
+  width: auto;
+  height: auto;
+}
+
+.flex-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	color: white;
+	margin: 100px 0px 25px 0px;
+	text-align: center;
+}
+
+input {
+	font-size: 2rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+	background-color: rgb(247, 224,24);
+
+	border: 5px solid white;
+	border-radius: 15px;
+}

@@ -60,7 +60,7 @@ A simple website, which generates QR codes from the entered link, using qrcodejs
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
 <!-- Sublime -->
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="README_files/sublime.png" alt="sublime" width="45" height="45"/> </a> 
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="README_files/sublime.png" alt="sublime" width="45" height="45"/> </a>
 <!-- iTerm -->
 <a href="https://iterm2.com/" target="_blank" rel="noreferrer"> <img src="README_files/iterm.png" alt="iterm" width="45" height="45"/> </a> 
 <!-- Figma -->

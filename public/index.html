@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>QRcode creator</title>
+	<link rel="stylesheet" type="text/css" href="../src/styles/index.css">
+	<link rel="icon" type="image/icon" href="../public/favicon.ico">
+
+</head>
+
+<body>
+
+  <!-- nav bar -->
+	<header>
+		
+		<nav>
+			<a class="github-profile-link" href="https://github.com/chebupa">
+				<img src="../src/assets/img/logos/chebupa_logo_main.png">
+				<p>Chebupa</p>
+			</a>
+		</nav>
+
+	</header>
+  
+  <!-- main -->
+  <div class="flex-wrapper">
+
+    <h1>Enter the link to get the QR code</h1>
+
+    <!-- input link -->
+    <input id="text" type="text" style="width:80%" /><br />
+
+    <!-- qr code -->
+    <div id="qrcode"></div>
+
+  </div>
+ 
+  <!-- script connections -->
+  <script src="../src/assets/libraries/davidshimjs-qrcodejs-04f46c6/qrcode.min.js"></script> <!-- qrcode library -->
+  <script src="../src/assets/libraries/davidshimjs-qrcodejs-04f46c6/jquery.min.js"></script> <!-- jquery -->
+  <script src="../src/js/qrcode.js"></script> <!-- main js file -->
+  <script src="../src/js/test.js"></script> <!-- test js file -->
+
+</body>
+
+</html>
