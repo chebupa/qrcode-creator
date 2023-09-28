@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9d5a064-289e-431d-9186-c8cfb2866d98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/github-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/github-user-contribution.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/iterm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/macos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/qr_donate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README_files/sublime.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ыва" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="c9d5a064-289e-431d-9186-c8cfb2866d98" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/README_files" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +73,7 @@
       <workItem from="1691912246228" duration="328000" />
       <workItem from="1692000615282" duration="9000" />
       <workItem from="1692135552412" duration="137000" />
-      <workItem from="1695903772860" duration="314000" />
+      <workItem from="1695903772860" duration="562000" />
     </task>
     <servers />
   </component>
